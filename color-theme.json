@@ -82,7 +82,7 @@
     },
     {
       "name": "JsonPropertyValueString",
-      "foreground": ""
+      "foreground": "#49E9A6"
     },
     {
       "name": "PunctuationString",
@@ -110,7 +110,7 @@
     },
     {
       "name": "Numeric",
-      "foreground": ""
+      "foreground": "#7060EB"
     },
     {
       "name": "Comment",
@@ -122,11 +122,11 @@
     },
     {
       "name": "JsonPropertyName",
-      "foreground": ""
+      "foreground": "#E4B781"
     },
     {
       "name": "LanguageConstant",
-      "foreground": ""
+      "foreground": "#7060EB"
     },
     {
       "name": "KeywordImport",
