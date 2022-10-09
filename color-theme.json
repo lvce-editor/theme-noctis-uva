@@ -16,8 +16,8 @@
 
     "EditorBackGround": "",
     "EditorScrollBarBackground": "rgba(112, 96, 235, 0.2)",
-    "EditorCursorBackground": "",
-    "EditorSelectionBackground": "",
+    "EditorCursorBackground": "#bbb3ff",
+    "EditorSelectionBackground": "rgba(110, 103, 168, 0.33)",
 
     "FocusOutline": "",
 
