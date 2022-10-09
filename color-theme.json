@@ -46,7 +46,7 @@
 
     "SideBarBackground": "rgb(35, 33, 54)",
 
-    "StatusBarBackground": "",
+    "StatusBarBackground": "rgb(41, 38, 64)",
     "StatusBarBorderTopColor": "transparent",
 
     "TabForeground": "rgb(153, 142, 241)",
@@ -90,15 +90,15 @@
     },
     {
       "name": "CssSelector",
-      "foreground": ""
+      "foreground": "#D67E5C"
     },
     {
       "name": "CssPropertyName",
-      "foreground": ""
+      "foreground": "#16A3B6"
     },
     {
       "name": "CssPropertyValue",
-      "foreground": ""
+      "foreground": "#49E9A6"
     },
     {
       "name": "Punctuation",
@@ -106,7 +106,7 @@
     },
     {
       "name": "Keyword",
-      "foreground": ""
+      "foreground": "#DF769B"
     },
     {
       "name": "Numeric",
@@ -114,11 +114,11 @@
     },
     {
       "name": "Comment",
-      "foreground": ""
+      "foreground": "#716C93"
     },
     {
       "name": "VariableName",
-      "foreground": ""
+      "foreground": "#16a3b6"
     },
     {
       "name": "JsonPropertyName",
@@ -146,7 +146,7 @@
     },
     {
       "name": "KeywordReturn",
-      "foreground": ""
+      "foreground": "#DF769B"
     },
     {
       "name": "Text",
