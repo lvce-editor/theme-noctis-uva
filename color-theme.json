@@ -66,19 +66,19 @@
   "tokenColors": [
     {
       "name": "TagName",
-      "foreground": ""
+      "foreground": "#E66533"
     },
     {
       "name": "PunctuationTag",
-      "foreground": ""
+      "foreground": "#716C93"
     },
     {
       "name": "AttributeName",
-      "foreground": ""
+      "foreground": "#D5971A"
     },
     {
       "name": "String",
-      "foreground": ""
+      "foreground": "#49E9A6"
     },
     {
       "name": "JsonPropertyValueString",
@@ -150,7 +150,7 @@
     },
     {
       "name": "Text",
-      "foreground": ""
+      "foreground": "#C5C2D6"
     },
     {
       "name": "PropertyName",
