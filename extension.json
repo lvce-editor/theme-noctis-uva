@@ -1,0 +1,12 @@
+{
+  "id": "builtin.theme-noctis-uva",
+  "name": "Theme Noctis Uva",
+  "description": "",
+  "colorThemes": [
+    {
+      "id": "noctis-uva",
+      "label": "Noctis Uva",
+      "path": "color-theme.json"
+    }
+  ]
+}
