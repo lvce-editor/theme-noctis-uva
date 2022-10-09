@@ -1,157 +1,158 @@
 {
   "type": "dark",
   "colors": {
-    "ActivityBarBackground": "#333842",
-    "ActivityBarForeground": "rgba(215, 218, 224, 0.4)",
-    "ActivityBarActiveForeground": "#D7DAE0",
+    "ActivityBarBackground": "rgb(41, 38, 64)",
+    "ActivityBarForeground": "rgba(110, 103, 168, 0.47)",
+    "ActivityBarActiveForeground": "rgb(110, 103, 168)",
+    "ActivityBarActiveBackground": "rgba(153, 142, 241, 0.2)",
 
-    "BadgeBackground": "rgb(82, 139, 255)",
-    "BadgeForeground": "rgb(215, 218, 224)",
+    "BadgeBackground": "",
+    "BadgeForeground": "",
 
-    "CompletionListBackground": "#21252b",
-    "CompletionListItemActiveBackground": "#2c313a",
+    "CompletionListBackground": "",
+    "CompletionListItemActiveBackground": "",
 
-    "ContextMenuBackground": "rgb(53, 59, 69)",
+    "ContextMenuBackground": "",
 
     "EditorBackGround": "",
-    "EditorScrollBarBackground": "rgba(90, 99, 117, 0.5)",
-    "EditorCursorBackground": "#528bff",
-    "EditorSelectionBackground": "#3e4451",
+    "EditorScrollBarBackground": "",
+    "EditorCursorBackground": "",
+    "EditorSelectionBackground": "",
 
-    "FocusOutline": "#528bff",
+    "FocusOutline": "",
 
-    "InputBackground": "#1B1D23",
+    "InputBackground": "",
 
-    "ListActiveSelectionBackground": "#2C313A",
+    "ListActiveSelectionBackground": "",
     "ListActiveSelectionForeground": "",
-    "ListHoverBackground": "#2C313A66",
+    "ListHoverBackground": "",
     "ListHoverForeground": "",
     "ListInactiveSelectionBackground": "",
-    "ListForeground": "rgb(204, 204, 204)",
+    "ListForeground": "",
 
-    "MainBackground": "#282C34",
+    "MainBackground": "",
 
-    "MenuBackground": "rgb(53, 59, 69)",
-    "MenuItemHoverBackground": "rgb(44, 49, 58)",
+    "MenuBackground": "",
+    "MenuItemHoverBackground": "",
 
-    "PanelBackground": "rgb(40, 44, 52)",
+    "PanelBackground": "",
     "PanelBorderTopColor": "",
-    "PanelTabActiveForeground": "rgb(231, 231, 231)",
-    "PanelTabForeground": "rgba(231, 231, 231, 0.6)",
+    "PanelTabActiveForeground": "",
+    "PanelTabForeground": "",
 
-    "QuickPickBackground": "rgb(33, 37, 43)",
+    "QuickPickBackground": "",
 
-    "SideBarBackground": "#21252B",
+    "SideBarBackground": "",
 
-    "StatusBarBackground": "#21252B",
+    "StatusBarBackground": "",
     "StatusBarBorderTopColor": "transparent",
 
-    "TabForeground": "rgba(157, 165, 180, 0.6)",
-    "TabActiveForeground": "#d7dae0",
-    "TabActiveBackground": "#282c34",
-    "TabBackground": "#21252b",
+    "TabForeground": "",
+    "TabActiveForeground": "",
+    "TabActiveBackground": "",
+    "TabBackground": "",
 
-    "TabsBackground": "#21252b",
+    "TabsBackground": "",
 
-    "TitleBarBackground": "#21252B",
+    "TitleBarBackground": "",
     "TitleBarBorderBottomColor": "",
     "TitleBarColor": "",
     "TitleBarColorInactive": "",
 
-    "TreeItemHoverBackground": "rgba(44, 49, 58, 0.4)"
+    "TreeItemHoverBackground": ""
   },
   "tokenColors": [
     {
       "name": "TagName",
-      "foreground": "#E06C75"
+      "foreground": ""
     },
     {
       "name": "PunctuationTag",
-      "foreground": "#ABB2BF"
+      "foreground": ""
     },
     {
       "name": "AttributeName",
-      "foreground": "#D19A66"
+      "foreground": ""
     },
     {
       "name": "String",
-      "foreground": "#98C379"
+      "foreground": ""
     },
     {
       "name": "JsonPropertyValueString",
-      "foreground": "#98C379"
+      "foreground": ""
     },
     {
       "name": "PunctuationString",
-      "foreground": "#98C379"
+      "foreground": ""
     },
     {
       "name": "CssSelector",
-      "foreground": "#D19A66"
+      "foreground": ""
     },
     {
       "name": "CssPropertyName",
-      "foreground": "#ABB2BF"
+      "foreground": ""
     },
     {
       "name": "CssPropertyValue",
-      "foreground": "#D19A66"
+      "foreground": ""
     },
     {
       "name": "Punctuation",
-      "foreground": "#ABB2BF"
+      "foreground": ""
     },
     {
       "name": "Keyword",
-      "foreground": "#C678DD"
+      "foreground": ""
     },
     {
       "name": "Numeric",
-      "foreground": "#D19A66"
+      "foreground": ""
     },
     {
       "name": "Comment",
-      "foreground": "#5C6370"
+      "foreground": ""
     },
     {
       "name": "VariableName",
-      "foreground": "#ABB2BF"
+      "foreground": ""
     },
     {
       "name": "JsonPropertyName",
-      "foreground": "#E06C75"
+      "foreground": ""
     },
     {
       "name": "LanguageConstant",
-      "foreground": "#D19A66"
+      "foreground": ""
     },
     {
       "name": "KeywordImport",
-      "foreground": "#C678DD"
+      "foreground": ""
     },
     {
       "name": "Macro",
-      "foreground": "#C678DD"
+      "foreground": ""
     },
     {
       "name": "Heading",
-      "foreground": "#e06c75"
+      "foreground": ""
     },
     {
       "name": "KeywordNew",
-      "foreground": "#C678DD"
+      "foreground": ""
     },
     {
       "name": "KeywordReturn",
-      "foreground": "#C678DD"
+      "foreground": ""
     },
     {
       "name": "Text",
-      "foreground": "#ABB2BF"
+      "foreground": ""
     },
     {
       "name": "PropertyName",
-      "foreground": "#E06C75"
+      "foreground": ""
     }
   ]
 }
