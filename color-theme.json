@@ -15,51 +15,53 @@
     "ContextMenuBackground": "",
 
     "EditorBackGround": "",
-    "EditorScrollBarBackground": "",
+    "EditorScrollBarBackground": "rgba(112, 96, 235, 0.2)",
     "EditorCursorBackground": "",
     "EditorSelectionBackground": "",
 
     "FocusOutline": "",
 
-    "InputBackground": "",
+    "InputBoxBackground": "rgb(31, 29, 48)",
+    "InputBoxForeground": "rgb(205, 211, 222)",
 
     "ListActiveSelectionBackground": "",
     "ListActiveSelectionForeground": "",
     "ListHoverBackground": "",
     "ListHoverForeground": "",
-    "ListInactiveSelectionBackground": "",
-    "ListForeground": "",
+    "ListInactiveSelectionBackground": "`",
+    "ListForeground": "rgb(197, 194, 214)",
 
-    "MainBackground": "",
+    "MainBackground": "rgb(41, 38, 64)",
 
-    "MenuBackground": "",
-    "MenuItemHoverBackground": "",
+    "MenuBackground": "rgb(47, 44, 73)",
+    "MenuForeground": "rgb(169, 165, 192)",
+    "MenuItemHoverBackground": "rgb(58, 58, 120)",
 
-    "PanelBackground": "",
+    "PanelBackground": "#1f1d30",
     "PanelBorderTopColor": "",
-    "PanelTabActiveForeground": "",
-    "PanelTabForeground": "",
+    "PanelTabActiveForeground": "rgb(153, 142, 241)",
+    "PanelTabForeground": "rgb(113, 108, 147)",
 
-    "QuickPickBackground": "",
+    "QuickPickBackground": "#2f2c49",
 
-    "SideBarBackground": "",
+    "SideBarBackground": "rgb(35, 33, 54)",
 
     "StatusBarBackground": "",
     "StatusBarBorderTopColor": "transparent",
 
-    "TabForeground": "",
-    "TabActiveForeground": "",
+    "TabForeground": "rgb(153, 142, 241)",
+    "TabActiveForeground": "rgb(153, 142, 241)",
     "TabActiveBackground": "",
     "TabBackground": "",
 
     "TabsBackground": "",
 
-    "TitleBarBackground": "",
+    "TitleBarBackground": "rgb(41, 38, 64)",
     "TitleBarBorderBottomColor": "",
-    "TitleBarColor": "",
+    "TitleBarColor": "#c5c2d6",
     "TitleBarColorInactive": "",
 
-    "TreeItemHoverBackground": ""
+    "TreeItemHoverBackground": "#383866"
   },
   "tokenColors": [
     {
