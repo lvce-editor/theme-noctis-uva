@@ -118,7 +118,7 @@
     },
     {
       "name": "VariableName",
-      "foreground": "#16a3b6"
+      "foreground": "#E4B781"
     },
     {
       "name": "JsonPropertyName",
@@ -163,6 +163,18 @@
     {
       "name": "YamlPropertyValueString",
       "foreground": "#49E9A6"
+    },
+    {
+      "name": "Function",
+      "foreground": "#16A3B6"
+    },
+    {
+      "name": "KeywordNew",
+      "foreground": "#DF769B"
+    },
+    {
+      "name": "KeywordControl",
+      "foreground": "#DF769B"
     }
   ]
 }
