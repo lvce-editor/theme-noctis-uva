@@ -175,6 +175,10 @@
     {
       "name": "KeywordControl",
       "foreground": "#DF769B"
+    },
+    {
+      "name": "KeywordThis",
+      "foreground": "#E66533"
     }
   ]
 }
