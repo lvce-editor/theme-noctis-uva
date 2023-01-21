@@ -195,6 +195,10 @@
     {
       "name": "Heading",
       "foreground": "#DF769B"
+    },
+    {
+      "name": "KeywordImport",
+      "foreground": "#DF769B"
     }
   ]
 }
