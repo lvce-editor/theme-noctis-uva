@@ -61,7 +61,9 @@
     "TitleBarColor": "#c5c2d6",
     "TitleBarColorInactive": "",
 
-    "TreeItemHoverBackground": "#383866"
+    "TreeItemHoverBackground": "#383866",
+
+    "WorkbenchForeground": "#c5c2d6"
   },
   "tokenColors": [
     {
