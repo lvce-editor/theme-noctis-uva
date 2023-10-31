@@ -11,6 +11,7 @@
 
     "CompletionListBackground": "",
     "CompletionListItemActiveBackground": "",
+    "CompletionHighlightForeground": "#998ef1",
 
     "ContextMenuBackground": "",
 
@@ -19,14 +20,15 @@
     "EditorCursorBackground": "#bbb3ff",
     "EditorSelectionBackground": "rgba(110, 103, 168, 0.33)",
 
-    "FocusOutline": "",
+    "FocusOutline": "#27274e",
 
     "InputBoxBackground": "rgb(31, 29, 48)",
     "InputBoxForeground": "rgb(205, 211, 222)",
+    "InputBoxBorder": "#27274e",
 
-    "ListActiveSelectionBackground": "",
-    "ListActiveSelectionForeground": "",
-    "ListHoverBackground": "",
+    "ListActiveSelectionBackground": "#332e5c",
+    "ListActiveSelectionForeground": "#edebff",
+    "ListHoverBackground": "#383866",
     "ListHoverForeground": "",
     "ListInactiveSelectionBackground": "`",
     "ListForeground": "rgb(197, 194, 214)",
