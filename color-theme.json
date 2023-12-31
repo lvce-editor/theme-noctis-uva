@@ -6,8 +6,8 @@
     "ActivityBarActiveForeground": "rgb(110, 103, 168)",
     "ActivityBarActiveBackground": "rgba(153, 142, 241, 0.2)",
 
-    "BadgeBackground": "",
-    "BadgeForeground": "",
+    "BadgeBackground": "#998ef1",
+    "BadgeForeground": "#171523",
 
     "CompletionListBackground": "",
     "CompletionListItemActiveBackground": "",
@@ -47,6 +47,9 @@
     "QuickPickBackground": "#2f2c49",
 
     "SideBarBackground": "rgb(35, 33, 54)",
+
+    "SplitButtonBackground": "#007f99",
+    "SplitButtonHoverBackground": "#00aacc",
 
     "StatusBarBackground": "rgb(41, 38, 64)",
     "StatusBarBorderTopColor": "transparent",
