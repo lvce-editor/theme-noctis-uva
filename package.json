@@ -8,8 +8,10 @@
   "author": "Lvce Editor",
   "license": "MIT",
   "devDependencies": {
+    "@lvce-editor/eslint-config": "^4.4.0",
     "@lvce-editor/package-extension": "^0.1.0",
-    "@lvce-editor/server": "^0.21.9"
+    "@lvce-editor/server": "^0.21.9",
+    "eslint": "^9.39.2"
   },
   "prettier": {
     "semi": false,
