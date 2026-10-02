@@ -116,6 +116,10 @@
       "foreground": "#DF769B"
     },
     {
+      "name": "KeywordOperator",
+      "foreground": "#DF769B"
+    },
+    {
       "name": "Numeric",
       "foreground": "#7060EB"
     },
